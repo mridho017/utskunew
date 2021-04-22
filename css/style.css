@@ -376,7 +376,8 @@ button {
     position: absolute;
     left: 5%;
     top: 390px;
-    background-color: #03164c;
+    background-color: #fff;
+    color: #000;
 }
 
 .carousel-control-next-icon {
