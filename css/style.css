@@ -236,6 +236,7 @@ button {
 .menu_text ul {
 	margin: 0px;
 	padding: 0px;
+    text-align: center;
 }
 
 .menu_text li {
