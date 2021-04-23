@@ -236,7 +236,6 @@ button {
 .menu_text ul {
 	margin: 0px;
 	padding: 0px;
-    text-align: center;
 }
 
 .menu_text li {
@@ -244,7 +243,6 @@ button {
     padding-right: 90px;
     font-size: 18px;
     color: #ffffff;
-    text-align: center;
 }
 
 .menu_text li a {
@@ -286,7 +284,7 @@ button {
 .overlay-content {
     position: relative;
     top: 25%;
-    width: 1%;
+    width: 100%;
     text-align: center;
     margin-top: 30px;
 }
