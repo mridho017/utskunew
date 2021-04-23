@@ -248,10 +248,12 @@ button {
 
 .menu_text li a {
     color: #ffffff;
+    text-align: center;
 }
 
 .menu_text li a:hover{
     color: #ffffff;
+    text-align: center;
 }
 
 .overlay {
