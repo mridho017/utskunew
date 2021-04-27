@@ -267,7 +267,7 @@ img{
 }
 
 .home__img{
-  width: 300px;
+  width: 300;
   justify-self: center;
 }
 
@@ -295,7 +295,7 @@ img{
 }
 
 .about__img{
-  width: 280px;
+  width: 280;
   border-radius: .5rem;
   justify-self: center;
 }
@@ -378,7 +378,7 @@ img{
 }
 
 .app__img{
-  width: 230px;
+  width: 230;
   justify-self: center;
 }
 
@@ -448,7 +448,7 @@ img{
   }
 
   .about__img, .app__img{
-    width: 380px;
+    width: 380;
     order: -1;
   }
 
@@ -504,7 +504,7 @@ img{
     padding: 1.5rem;
   }
   .menu__img{
-    width: 130px;
+    width: 130;
   }
 
   .app__store{
@@ -519,7 +519,7 @@ img{
   }
 
   .home__img{
-    width: 500px;
+    width: 500;
   }
 
   .about__container,
