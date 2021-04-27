@@ -310,7 +310,8 @@ img{
   text-align: center;
 }
 .service_foto2{
-  height: 70%;
+  display: inline;
+  height: 75%;
   width: 70%;
 }
 
