@@ -124,7 +124,7 @@ img{
 
 .section-subtitle{
   display: block;
-  color: var(--first-color);
+  color: #05572f;
   font-weight: var(--font-medium);
   margin-bottom: var(--mb-1);
 }
@@ -209,7 +209,7 @@ img{
 
 /* Active menu */
 .active-link{
-  color: #069C54;
+  color: #05572f;
 }
 
 /* Change background header */
@@ -274,7 +274,7 @@ img{
 /*========== BUTTONS ==========*/
 .button{
   display: inline-block;
-  background-color: var(--first-color);
+  background-color: #05572f;
   color: #FFF;
   padding: .75rem 1rem;
   border-radius: .5rem;
