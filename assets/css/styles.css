@@ -309,6 +309,10 @@ img{
 .services__content{
   text-align: center;
 }
+.service_foto2{
+  height: 50%;
+  width: 50%;
+}
 
 .services__title{
   font-size: var(--h3-font-size);
