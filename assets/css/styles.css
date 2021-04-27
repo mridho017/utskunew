@@ -70,7 +70,7 @@ body.dark-theme{
   --container-color: #27302C;
 }
 
-/*========== Dark/Light ==========*/
+/*========== Button Dark/Light ==========*/
 .change-theme{
   position: absolute;
   right: 1rem;
@@ -366,6 +366,14 @@ img{
   margin-bottom: var(--mb-1);
 }
 
+.menu__button{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  display: flex;
+  padding: .625rem .813rem;
+  border-radius: .5rem 0 .5rem 0;
+}
 
 /*========== APP ==========*/
 .app__data{
