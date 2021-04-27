@@ -310,13 +310,6 @@ img{
   text-align: center;
 }
 
-.services__img{
-  width: 64px;
-  height: 64px;
-  fill: var(--first-color);
-  margin-bottom: var(--mb-2);
-}
-
 .services__title{
   font-size: var(--h3-font-size);
   color: var(--title-color);
